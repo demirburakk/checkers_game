@@ -150,7 +150,7 @@ class _GameScreenState extends State<GameScreen> {
       soundManager.playDrawSound();
       title = l10n.gameOverDrawTitle;
       // Resolve the localized draw reason.
-      message = game.drawReason?.aklama ?? "";
+      message = game.drawReason?.explanation ?? "";
       // Remove saved game since it's finished.
       await GameSaver.deleteGame(game.gameState.gameMode, widget.opponentType);
 
