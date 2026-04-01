@@ -6,12 +6,6 @@
 
 A modern, high-performance, and feature-rich checkers game built with Flutter. This project offers a variety of game modes, customizable aesthetics, and a challenging AI to provide an engaging experience for players of all levels.
 
-<p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+1" width="250" alt="Gameplay 1">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+2" width="250" alt="Gameplay 2">
-</p>
-
 ## 📥 Download & Play
 
 👉 **[Download Latest APK for Android](https://github.com/demirburakk/checkers_game/releases/latest)**
