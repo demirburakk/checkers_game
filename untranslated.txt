@@ -1,0 +1,6 @@
+{
+  "it": [
+    "version",
+    "aboutHeader"
+  ]
+}
