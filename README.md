@@ -1,6 +1,20 @@
-# Checkers Game (Dama)
+# Checkers Game
+
+[![Build & Release Flutter APK](https://github.com/demirburakk/checkers_game/actions/workflows/build_apk.yml/badge.svg)](https://github.com/demirburakk/checkers_game/actions/workflows/build_apk.yml)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Flutter](https://img.shields.io/badge/Flutter-%E2%9D%A4-02569B?logo=flutter)](https://flutter.dev)
 
 A modern, high-performance, and feature-rich checkers game built with Flutter. This project offers a variety of game modes, customizable aesthetics, and a challenging AI to provide an engaging experience for players of all levels.
+
+<p align="center">
+  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+1" width="250" alt="Gameplay 1">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://via.placeholder.com/250x500.png?text=Screenshot+2" width="250" alt="Gameplay 2">
+</p>
+
+## 📥 Download & Play
+
+👉 **[Download Latest APK for Android](https://github.com/demirburakk/checkers_game/releases/latest)**
 
 ## 🌟 Features
 
