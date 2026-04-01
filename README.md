@@ -30,7 +30,7 @@ A modern, high-performance, and feature-rich checkers game built with Flutter. T
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kanake83/checkers-game.git
+   git clone https://github.com/demirburakk/checkers-game.git
    ```
 2. **Navigate to the project directory:**
    ```bash
